@@ -1,4 +1,4 @@
-import numpy as np
+import numpy as np 
 import tensorflow as tf
 
 coefficients = np.array([[1], [-20], [25]])
