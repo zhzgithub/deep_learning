@@ -9,3 +9,6 @@
 7.参数VS超参数        
 8.logistic回归与softmax的成本函数
 9.epoch、 iteration和batchsize的区别
+
+# 【2】demo.py
+	关于tensorflow的应用模板
