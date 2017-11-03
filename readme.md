@@ -7,7 +7,7 @@
 5.神经网络与logistic回归对比         
 6.反向传播 ----很精辟，不需要繁琐的推导        
 7.参数VS超参数        
-8.logistic回归与softmax的成本函数
+8.logistic回归与softmax的成本函数       
 9.epoch、 iteration和batchsize的区别
 
 # 【2】demo.py
